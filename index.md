@@ -1,5 +1,5 @@
 ---
-title: "Getting started with  Ruff Project"
+title: "Getting started with  Ruff Projects"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
