@@ -10,10 +10,13 @@ We met the neighbor farmer who is harvesting the pears today and for a few days.
 
 ![pear tree](https://photos.app.goo.gl/2dXJs64yNfxuXn5EA "a pear tree in the orchard")
 
+[![pear tree](https://photos.app.goo.gl/2dXJs64yNfxuXn5EA)](http://google.com/)
+
 ![harvesting pears](https://photos.app.goo.gl/BPbrxZ34T1Ym62Q79 "harvested pear in containers in the orchard")
 
+[![harvesting pears](https://photos.app.goo.gl/BPbrxZ34T1Ym62Q79)](https://photos.google.com)
 
-
+These are not waters, they are sprayed for insects, the ground is cleared between rows of trees and the trees are pruned in the winter.
 
 ## Heading
 
